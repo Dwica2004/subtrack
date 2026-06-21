@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Laporan & docs pribadi
+docs/generate_laporan.py
+docs/laporan_template.md
+docs/video_demo_script.md
+*.docx
+~$*.docx
